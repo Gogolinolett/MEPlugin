@@ -1,0 +1,6 @@
+name: ME
+version: 1.0.0
+main: io.github.SebastianDanielFrenz.MEPlugin.MEPlugin
+commands:
+  me:
+     alias: []
